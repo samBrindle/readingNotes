@@ -63,4 +63,44 @@ h1 { \
 
 
 
-##
+## Basic Javascript Instructions
+
+| Term | How it's applied | Definition|
+|------|------------------|-----------|
+| Statement | Ends with ; | An individual step/instruction |
+| Comment | Single line comment: // Multi-line: /* jkdfalj */ | Comments are used to explain code |
+| Variables | var variableName | Store information from a statement |
+| Array | Declare variable then name the array [] | A list of values |
+| Expressions | var area = 3*2 | turns a single value or multiple values into a single value |
+| Operators | + = * | Create a single value from 1+ |
+
+## Decisions and Loops
+
+### Comparison Operators
+* Return a boolean
+
+| Operator | Definition | Example |
+|----------|------------|---------|
+| == | equal to | 4 == 5 : false |
+| != | not equal to | 4 != 5 : true |
+| === | strict equal to | 'one' === 1 : false |
+| !== | strict not equal to | 'one' !== 1 : true |
+|  &gt; | greater than | 8 > 4 : true |
+| &lt; | less than | 8 < 4 : false |
+| &gt;= | greater than or equal to | 8 &gt;= 8 : true |
+| &lt;= | less than or equal to | 8 &lt;= 8 : true |
+
+### Logical Operators
+
+* Allows you to compare multiple comparison operators
+* && logical and
+* || logical or
+* ! logical not
+
+### If Statements
+
+* Evaluate a condition to see if true
+
+if (score >= 50) {                <-- If variable score is greater than 50 \
+ congratulate();                      run congratulate function \
+}     \
