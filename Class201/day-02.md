@@ -27,5 +27,5 @@ Tags provide meaning and structure to the page of browsers
 **Author Details &lt;address&gt;:**    Contains contact info for author of the page \
 **Insert &lt;ins&gt;:**    Used to show content was inserted into the document \
 **Delete &lt;del&gt;:**    Used to show content was deleted from the document \
-**Strike-out &lt;s&gt;:**    Used to show content is not longer accurate/relevant but should not be deleted \
+**Strike-out &lt;s&gt;:**    Used to show content is not longer accurate/relevant but should not be deleted 
 
