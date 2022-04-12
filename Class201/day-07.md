@@ -41,6 +41,8 @@ Tables represent information in a grid format
 ### Built in Objects
 Browsers have 3 built-in objects:
 * Browser Object Model
+
+
 | Method | Info |
 |--------|------|
 | window.alert() | creates dialog box that user must click to close |
@@ -48,6 +50,8 @@ Browsers have 3 built-in objects:
 | window.print() | Tells browser user wants to print current page |
 
 * Document Object Model (DOM)
+
+
 | Method | Info |
 |--------|------|
 | document.write() | writes text to document |
@@ -57,6 +61,8 @@ Browsers have 3 built-in objects:
 | document.createTextNode() | creates new text node |
 
 * Global Javascript Objects
+
+
 | Method | Info |
 |--------|------|
 | toUpperCase() | Changes string to uppercase |
