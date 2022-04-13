@@ -68,3 +68,20 @@ Due to the countless screen sizes and resolution, web designers often create pag
     * You can control the lengths of the lines of texts
     * Image size will remain the same relative to the rest of the page
   * Disadvantages
+    * End up with big gaps
+    * If user resolution is higher than designer, page will look smaller
+    * If user increases font size, text might not fit into alloted spaces
+    * Designs work best on devices with similar resolution to desktop/laptop computers
+    * Page will often take up more vertical space than a liquid layout
+
+### Liquid Layouts
+* Stretch and contrast as user increases/decreases the size of their browser window (typically in percentages)
+  * Advantages
+    * Pages expand to fill the entire browser window
+    * If user has a small window, page can contract to fit it without the user having to scroll to the side
+    * The design is tolerant of users setting font sizes to larger than inteded
+  * Disadvantages
+    * If you don't controll the width sections of the page then design can look very different than intended (unexpected gaps)
+    * If user has a wide window, lines of text can become very long
+    * If user has a very narrow window, words may be squashed
+    * If a fixed width item is in a box that is to small to hold it the image can overflow over the text
