@@ -52,4 +52,5 @@
 
 ## Domain Names & Hosting
 Domain Nmae: Web address
+
 Web Hosting: Uploading your site to a web browser
