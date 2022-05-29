@@ -7,8 +7,8 @@
 
 ## Employee Breakdown of Key Tech Companies & Why Divesity Matters to your Tech Company
 * When are diversity efforts most successful?
-* 
+  * When they are executed by committed company leaders 
 * Why do diverse companies perform better?
-  * Because it allows for more informed decision making
+  * Diverse crowds usually lead to more diverse thinking which allows for more informed decision making.
 * Give an example of how a diverse company can serve a diverse user base or vise-versa.
-  * 
+  * Having a team of left-handed people will allow for products that better serve left-handed people
